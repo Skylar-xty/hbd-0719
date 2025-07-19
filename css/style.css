@@ -365,7 +365,7 @@
 	top:10%;
 }
 .ly-stxt01 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -393,7 +393,7 @@
 }
 
 .ly-stxt02 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -429,7 +429,7 @@
 }
 
 .ly-stxt03 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -458,7 +458,7 @@
 }
 
 .ly-stxt04 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -494,7 +494,7 @@
 } */
 
 .ly-stxt05 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -530,7 +530,7 @@
 } */
 
 .ly-stxt06 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -558,7 +558,7 @@
 }
 
 .ly-stxt07 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -594,7 +594,7 @@
 } */
 
 .ly-stxt08 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -630,7 +630,7 @@
 }
 
 .ly-stxt09 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -666,7 +666,7 @@
 } */
 
 .ly-stxt10 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -831,7 +831,7 @@
 }
 /*文本*/
 .ly-txt11 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -849,7 +849,7 @@
 
 
 .ly-txt12 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 20px;
 	text-indent:2em;
 	font-color: #000;
@@ -915,7 +915,7 @@
 }
 /*文本*/
 .ly-txt13 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -933,7 +933,7 @@
 
 /* .ly-txt14 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 18px;
 	font-color: #000;
 	position: absolute;
@@ -953,7 +953,7 @@
 } */
 /* Update the parent container to be a flexbox */
 .ly-txt14 {
-    font-family: "Microsoft YaHei";
+    font-family: "Arial, Helvetica, sans-serif;";
     font-size: 18px;
     color: #000;
     position: absolute;
@@ -1077,7 +1077,7 @@
 }
 /*文本*/
 .ly-txt21 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1095,7 +1095,7 @@
 
 
 .ly-txt22 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 13px;
 	text-indent:2em;
 	font-color: #000;
@@ -1160,7 +1160,7 @@
 }
 /*文本*/
 .ly-txt23 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1178,7 +1178,7 @@
 
 .ly-txt24 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1261,7 +1261,7 @@
 }
 /*文本*/
 .ly-txt25 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1279,7 +1279,7 @@
 
 .ly-txt26 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1412,7 +1412,7 @@
 }
 /*文本*/
 .ly-txt31 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1434,7 +1434,7 @@
 	line-height: 2;
 }
 .ly-txt32 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 20px;
 	text-indent:2em;
 	font-color: #000;
@@ -1500,7 +1500,7 @@
 }
 /*文本*/
 .ly-txt33 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1518,7 +1518,7 @@
 
 .ly-txt34 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 18px;
 	line-height: 1.5;
 	font-color: #000;
@@ -1579,7 +1579,7 @@
 }
 .ly-txt51 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1641,7 +1641,7 @@
 }
 .ly-txt61 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1667,7 +1667,7 @@
 
 .ly-txt71 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1846,7 +1846,7 @@
 }
 .ly-txt72 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1886,7 +1886,7 @@
 
 .ly-txt73 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1948,7 +1948,7 @@
 	transition-delay: 2.5s;
 }
 .ly-txt82 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	text-indent:1em;
 	font-color: #000;
@@ -2036,7 +2036,7 @@
 
 .ly-txt84 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 15px;
 	font-color: #000;
 	position: absolute;
@@ -2055,7 +2055,7 @@
 	transition-delay: 6.5s;
 }
 .ly-txt90 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -2073,7 +2073,7 @@
 	transition-delay: 4.5s;
 }
 .ly-txt91 {
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -2252,7 +2252,7 @@
 }
 .ly-txt92 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -2292,7 +2292,7 @@
 
 .ly-txt93 {
 	text-indent:2em;
-	font-family: Microsoft YaHei;
+	font-family: Arial, Helvetica, sans-serif;;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
