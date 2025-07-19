@@ -164,6 +164,7 @@
     
     /* 确保内容可见 */
     overflow: visible; 
+	transform: translateZ(0);
 }
 /* .ly-box0111 {
 	width:50px;
@@ -192,6 +193,7 @@
     
     /* 确保内容可见 */
     overflow: visible; 
+	transform: translateZ(0);
 }
 @keyframes box_to_point{
 	0% {
@@ -365,7 +367,7 @@
 	top:10%;
 }
 .ly-stxt01 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -393,7 +395,7 @@
 }
 
 .ly-stxt02 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -429,7 +431,7 @@
 }
 
 .ly-stxt03 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -458,7 +460,7 @@
 }
 
 .ly-stxt04 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -494,7 +496,7 @@
 } */
 
 .ly-stxt05 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -530,7 +532,7 @@
 } */
 
 .ly-stxt06 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -558,7 +560,7 @@
 }
 
 .ly-stxt07 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -594,7 +596,7 @@
 } */
 
 .ly-stxt08 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -630,7 +632,7 @@
 }
 
 .ly-stxt09 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -666,7 +668,7 @@
 } */
 
 .ly-stxt10 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	font-color: #000;
 	position: relative;
@@ -831,7 +833,7 @@
 }
 /*文本*/
 .ly-txt11 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -849,7 +851,7 @@
 
 
 .ly-txt12 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 20px;
 	text-indent:2em;
 	font-color: #000;
@@ -915,7 +917,7 @@
 }
 /*文本*/
 .ly-txt13 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -933,7 +935,7 @@
 
 /* .ly-txt14 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 18px;
 	font-color: #000;
 	position: absolute;
@@ -953,7 +955,7 @@
 } */
 /* Update the parent container to be a flexbox */
 .ly-txt14 {
-    font-family: "Arial, Helvetica, sans-serif;";
+    font-family: "'Noto Serif SC', serif;";
     font-size: 18px;
     color: #000;
     position: absolute;
@@ -974,6 +976,7 @@
 .ly-txt14 .column p {
     /* 设置一个舒适的行高，比如1.8倍的字高
     line-height: 1.8;  */
+	font-size: 17px; 
     
     /* (可选) 您也可以在这里设置段落之间的间距 */
     margin-bottom: 0px; 
@@ -1083,7 +1086,7 @@
 }
 /*文本*/
 .ly-txt21 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1101,7 +1104,7 @@
 
 
 .ly-txt22 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 13px;
 	text-indent:2em;
 	font-color: #000;
@@ -1166,7 +1169,7 @@
 }
 /*文本*/
 .ly-txt23 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1184,7 +1187,7 @@
 
 .ly-txt24 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1267,7 +1270,7 @@
 }
 /*文本*/
 .ly-txt25 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1285,7 +1288,7 @@
 
 .ly-txt26 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1418,7 +1421,7 @@
 }
 /*文本*/
 .ly-txt31 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1440,7 +1443,7 @@
 	line-height: 2;
 }
 .ly-txt32 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 20px;
 	text-indent:2em;
 	font-color: #000;
@@ -1506,7 +1509,7 @@
 }
 /*文本*/
 .ly-txt33 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 30px;
 	text-shadow: 1px;
 	font-color: #000;
@@ -1524,7 +1527,7 @@
 
 .ly-txt34 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 18px;
 	line-height: 1.5;
 	font-color: #000;
@@ -1585,7 +1588,7 @@
 }
 .ly-txt51 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1647,7 +1650,7 @@
 }
 .ly-txt61 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1673,7 +1676,7 @@
 
 .ly-txt71 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1852,7 +1855,8 @@
 }
 .ly-txt72 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	/* font-family: 'Noto Serif SC', serif; */
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1892,7 +1896,7 @@
 
 .ly-txt73 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -1954,7 +1958,7 @@
 	transition-delay: 2.5s;
 }
 .ly-txt82 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	text-indent:1em;
 	font-color: #000;
@@ -2042,7 +2046,7 @@
 
 .ly-txt84 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 15px;
 	font-color: #000;
 	position: absolute;
@@ -2061,7 +2065,7 @@
 	transition-delay: 6.5s;
 }
 .ly-txt90 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -2079,7 +2083,7 @@
 	transition-delay: 4.5s;
 }
 .ly-txt91 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -2258,7 +2262,7 @@
 }
 .ly-txt92 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
@@ -2298,7 +2302,7 @@
 
 .ly-txt93 {
 	text-indent:2em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Noto Serif SC', serif;
 	font-size: 14px;
 	font-color: #000;
 	position: absolute;
