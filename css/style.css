@@ -976,7 +976,7 @@
     line-height: 1.8;  */
     
     /* (可选) 您也可以在这里设置段落之间的间距 */
-    margin-bottom: 15px; 
+    margin-bottom: 0px; 
 }
 /* Add this new style for the columns */
 .column {
