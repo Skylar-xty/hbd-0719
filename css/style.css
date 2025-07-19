@@ -971,7 +971,13 @@
     justify-content: space-between; /* Creates space between columns */
     gap: 40px; /* An alternative to justify-content for spacing */
 }
-
+.ly-txt14 .column p {
+    /* 设置一个舒适的行高，比如1.8倍的字高
+    line-height: 1.8;  */
+    
+    /* (可选) 您也可以在这里设置段落之间的间距 */
+    margin-bottom: 15px; 
+}
 /* Add this new style for the columns */
 .column {
     width: 50%; /* Each column takes up half the space */
@@ -2344,7 +2350,7 @@
 	width: 90%;
 	max-width: 400px; /* 限制最大宽度 */
 	box-sizing: border-box;
-	margin-left: 280px;
+	margin-left: 220px;
 }
   
 .music-title {
