@@ -1,0 +1,79 @@
+/* ======== 音乐播放器样式 ======== */
+#music-player {
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.2); /* 半透明背景 */
+    border-radius: 10px;
+    width: 90%;
+    max-width: 400px; /* 限制最大宽度 */
+    box-sizing: border-box;
+  }
+  
+  .music-title {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  #music-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #music-list li {
+    display: flex;
+    justify-content: space-between; /* 文字和按钮分开 */
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 16px;
+  }
+  
+  #music-list li:last-child {
+    border-bottom: none; /* 最后一首歌没有下划线 */
+  }
+  
+  /* 播放/暂停按钮样式 */
+  .play-btn {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; /* 圆形按钮 */
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    transition: all 0.2s ease;
+  }
+  
+  .play-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  
+  /* 播放按钮的三角形 */
+  .play-btn::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 7px 0 7px 12px; /* 高度和宽度 */
+    border-color: transparent transparent transparent #fff; /* 箭头颜色 */
+    transform: translate(-40%, -50%);
+  }
+  
+  /* 正在播放时，按钮变为暂停样式 */
+  .play-btn.playing::before {
+    content: '';
+    border-style: double;
+    border-width: 0px 0px 0px 10px; /* 暂停竖条的宽度 */
+    height: 14px; /* 暂停竖条的高度 */
+    transform: translate(-50%, -50%);
+  }
