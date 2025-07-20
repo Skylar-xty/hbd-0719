@@ -11,14 +11,14 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate('¡Hola, Matías!|Feliz cumpleaños.|祝你生日快乐：）|Happy Birthday!|Turn on the sound|Get ready!|#countdown 3||');
+      S.UI.simulate('¡Hola, Matías!|Feliz cumpleaños.|祝你生日快乐：）|Happy Birthday!:3|Turn on the sound|Get ready!|#countdown 3||');
     }
 
     S.Drawing.loop(function () {
             m++;
       S.Shape.render();
       //console.log(m);
-      if(m==2450){
+      if(m==2400){
         window.location.href="../html/BirthdayCake.html";
       }
     });
